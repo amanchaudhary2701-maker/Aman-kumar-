@@ -359,9 +359,9 @@
             </div>
             
             <div style="margin-top: 30px;">
-                <p>📞 Call: +91-9876543210</p>
+                <p>📞 Call: +91-9151345504</p>
                 <p>📧 Email: amansingh.education@gmail.com</p>
-                <p>📍 Location: Delhi, India</p>
+                <p>📍 Location: paryagraj India</p>
             </div>
         </section>
     </div>
