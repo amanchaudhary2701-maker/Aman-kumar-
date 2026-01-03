@@ -1,0 +1,11 @@
+<!-- NEW COURSE - ADD THIS CODE -->
+<div class="course-card">
+    <div class="course-img">📘</div>
+    <div class="course-content">
+        <h3>Computer Science</h3>
+        <p>Programming, Web Development, Data Science basics for school students.</p>
+        <p><strong>Level:</strong> Beginner to Advanced</p>
+        <p><strong>Duration:</strong> 3 Months</p>
+        <p><strong>Fees:</strong> ₹5,000/-</p>
+    </div>
+</div>
