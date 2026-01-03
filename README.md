@@ -285,7 +285,7 @@
     </div>
     
     <div style="margin-top: 25px;">
-        <a href="https://youtube.com/@AmanSinghEducation" target="_blank" style="background: #ff0000; color: white; padding: 12px 25px; border-radius: 5px; text-decoration: none; display: inline-block; margin: 10px;">
+        <a href="https://youtube.com/@amanupsc001?si=eJLQAbvHGTcOgSRh)target="_blank" style="background: #ff0000; color: white; padding: 12px 25px; border-radius: 5px; text-decoration: none; display: inline-block; margin: 10px;">
             ▶️ More Videos on YouTube
         </a>
         <a href="#courses" style="background: #1a2980; color: white; padding: 12px 25px; border-radius: 5px; text-decoration: none; display: inline-block; margin: 10px;">
