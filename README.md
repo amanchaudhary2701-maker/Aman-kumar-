@@ -265,6 +265,34 @@
             </nav>
         </div>
     </header>
+    <!-- PASTE THIS AFTER HERO SECTION (Line 119) -->
+<div class="container" style="margin: 60px auto; text-align: center;">
+    <h2 style="color: #1a2980; margin-bottom: 20px; font-size: 32px;">Free Sample Lecture</h2>
+    <p style="color: #666; margin-bottom: 30px; max-width: 600px; margin-left: auto; margin-right: auto;">
+        Experience teaching quality with this free physics lecture
+    </p>
+    
+    <div style="max-width: 800px; margin: 0 auto; border-radius: 12px; overflow: hidden; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
+        <div style="position: relative; padding-bottom: 56.25%; height: 0; background: #000;">
+            <iframe 
+                src="https://www.youtube.com/embed/YOUR_VIDEO_ID_HERE" 
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                allowfullscreen
+                title="Aman Singh Physics Lecture">
+            </iframe>
+        </div>
+    </div>
+    
+    <div style="margin-top: 25px;">
+        <a href="https://youtube.com/@AmanSinghEducation" target="_blank" style="background: #ff0000; color: white; padding: 12px 25px; border-radius: 5px; text-decoration: none; display: inline-block; margin: 10px;">
+            ▶️ More Videos on YouTube
+        </a>
+        <a href="#courses" style="background: #1a2980; color: white; padding: 12px 25px; border-radius: 5px; text-decoration: none; display: inline-block; margin: 10px;">
+            📚 View All Courses
+        </a>
+    </div>
+</div>
 
     <!-- Hero Section -->
     <section class="hero" id="home">
