@@ -249,6 +249,19 @@
             }
         }
     </style>
+    <!-- ADD INSIDE EACH COURSE-CARD DIV -->
+<div style="margin: 15px -25px -25px -25px;">
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; background: #000;">
+        <iframe 
+            src="[/](https://youtube.com/@amanupsc001?si=dbnIqSC6wd5B1m4i)embed/PHYSICS_VIDEO_ID" 
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"
+            allowfullscreen>
+        </iframe>
+    </div>
+    <div style="padding: 10px 15px; background: #f8f9fa; border-top: 1px solid #eee;">
+        <p style="margin: 0; font-size: 14px; color: #666;">Sample Lecture | 15 mins</p>
+    </div>
+</div>
 </head>
 <body>
     <!-- Header & Navigation -->
